@@ -21,7 +21,14 @@ This layeing is accomplished by "Union mounts", the ability to mount multiple fi
 ##########
 Union mounts
 ##########
+They combine all of the views into single image gives regular view of everyday file system.
 
+
+####bootfs and rootfs#####
+##########################
+both are file system bootfs is required to start and execute container
+rootfs for root reletated operations inside container
+bootfs tells how to start container same as booting machine
 
 #####################
 How Images are stored

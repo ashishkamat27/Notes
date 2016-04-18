@@ -1,4 +1,4 @@
-What is docker technology/platform
+What is docker - technology/platform
 Docker is a container runtime to a linux kernel 
 brings together 
 namesapce cgroups capabilities
@@ -21,7 +21,7 @@ Networking
 Docker is a company formerly known as dotcloud 
 docker is an internal project which is developed by Soloman Hykes
 
-running on apache
+#running on apache
 
 LXC vs Docker
 

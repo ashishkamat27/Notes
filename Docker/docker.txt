@@ -3,7 +3,7 @@ Isolated sytem view
 -own root file system for each
 -own view of different file sytem
 -create process for each container
- -process inside one coannot send signal to another
+ -process inside one connot send signal to another
 -have own routing table and nw mangement
 -manged by linux kernel namespace
 divided into 
